@@ -1,0 +1,354 @@
+.tm-logo{
+	padding-right: 50px;
+	position: absolute;
+	left: 50%;
+	background-color: #fff;
+}
+.pges{
+	float: right;
+	display: inline-block;
+	border: 2px solid white;
+	background-color: white;
+    width: 1350px;
+}
+.pges ul li {
+	display: inline-block;
+	padding-right: 20px;
+	color: #4b5658;
+
+}
+.pges ul li a {
+	display: inline-block;
+	margin right: 10px;
+	font-size: inherit;
+	color: #4b5658;
+	text-decoration: none;
+	font-size: 16px;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+}
+.pges ul li a:visited{
+ 	color: #5fcf80;
+
+}
+.tm-bg{
+	background-image: url('Pictures/fim.jpg');
+	margin-top: 20px;
+	height: 700px;
+	width: 1340px;
+	background-attachment: fixed;
+
+	
+
+}
+.abd{
+	color: #fff;
+	float: left;
+	padding-top: 200px;
+	padding-left: 60px;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+
+
+}
+.mass{
+	background-color: #edeff0;
+	color: #40484a;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+	border-radius: 5px 5px 0 0 ;
+    text-align: center;
+	border: 2px solid white ;
+	padding: 20px 100px 20px 100px;
+	margin-right:60px;
+	margin-bottom: 0px;
+	
+}
+.drf{
+	float: right;
+	padding-top: 200px;
+
+}
+.frm{
+	border: 2px solid white;
+	border-radius: 0px 0px 5px 5px;
+	background-color: white;
+	height: 170px;
+	margin-top: 0px;
+	margin-right: 60px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+	
+.sign_fn{
+	float: left;
+	margin-left: 20px;
+	padding-top: 0px;
+	margin-bottom: 6px;
+	padding-bottom: 12px;
+}
+.form-input{
+	border-color: #d4d9dd;
+	border-radius: 4px;
+}
+.form-input2{
+	border-color: #d4d9dd;
+	border-radius: 4px;
+
+}
+.sign_ln{
+	margin-right: 20px;
+	float: right;
+	padding-top: 0px;
+	/*padding-bottom: 6px;*/
+}
+.form-input3{
+	border-color: #d4d9dd;
+	border-radius: 4px;
+	float: left;
+}
+.sign_el{
+	text-align: left;
+	
+
+}
+.sign_pw{
+	float: right;
+}
+.form-input4{
+	border-color: #d4d9dd;
+	border-radius: 4px;
+}
+.form-fn{
+	color: #40484a;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+
+}
+.form-ln{
+	color: #40484a;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+
+
+}
+.form-el{
+	color: #40484a;
+	float: left;
+	text-align: left;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+
+}
+.form-pw{
+	color: #40484a;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+
+}
+.sign_cb{
+	float: left;
+	color: #40484a;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+}
+.cb{
+	text-align: left;
+}
+.bton{
+	border-radius: 5px;
+	background-color: #387bab;
+	font-size: 15px;
+	color: #fff;
+	 padding: 10px 160px 10px 160px;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.situation{
+	padding-top: 600px;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+	color: white;
+	padding-left: 100px;
+	display: block;
+	text-align: center;
+	
+}
+.fop{
+	font-size: 2.25rem;
+	text-align: center;
+}
+.tfr{
+	font-size: 1.12rem;
+	text-align: center;
+	padding-right: 30px;
+}
+
+.base{
+	font-size: 2.25rem;
+	text-align: center;
+}
+.course{
+	font-size: 1.12rem;
+	text-align: center;
+	padding-right: 30px;
+}
+.syll{
+	font-size: 2.25rem;
+	text-align: center;
+}
+.topic{
+	font-size: 1.12rem;
+	text-align: center;
+	padding-right: 30px;
+}
+.popl{
+	text-align: center;
+	font-size: 2.25rem;
+}
+.stu{
+	text-align: center;
+	font-size: 1.12rem;
+}
+.mejs-overlay-button{
+	height: 100px;
+	width: 100px;
+	color: black;
+	background: url('Videos/ass2video.webm');
+	
+}
+.adv{
+	background-image: url('Pictures/ass2bg.png');
+	height: 600px;
+	width: 1340px;
+
+}
+.video{
+	padding-left: 50px;
+	padding-top: 50px;
+	float: left;
+	margin-bottom: 0px auto;
+	padding-bottom: 0px;
+
+}
+.para1{
+	float: right;
+	padding-right: 100px;
+	padding-top: 100px;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+}
+.heading1{
+	color: black;
+	font-size: 1.75rem;
+	margin-bottom: 15px;
+	padding-bottom: 4px;
+}
+.part1{
+	color: #7b8b8e;
+	font-size: 1rem;
+	padding-top: 0px;
+	font-weight: 400px;
+
+	margin-bottom: 10px;
+}
+.girl{
+	padding-top: 300px;
+}
+.para2{
+	float: left;
+	padding-top: 50px;
+    padding-left: 0px;
+    font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+    margin-left: 0px;
+
+}
+.heading2{
+	font-size: 1.75rem;
+
+}
+.part2{
+	font-size: 1rem;
+	color: #7b8b8e;
+}
+.para3{
+	float: right;
+	padding-top: 50px;
+    font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+
+   
+}
+.heading3{
+	font-size: 1.75rem;
+
+}
+.part3{
+	font-size: 1rem;
+	color: #7b8b8e;
+}
+.approach{
+	text-align: center;
+	color: #384047;
+	padding-top: 600px;
+	font-size: 2.25rem;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+}
+.partners{
+	float: left;
+	margin-bottom: 15px;
+}
+.devp{
+	padding-right: 40px;
+}
+.watt{
+	padding-right: 40px;
+}
+.alexa{
+	padding-right: 40px;
+}
+.last{
+	background-image: url('Pictures/bc2.jpg');
+	width: 1340px;
+	height: 500px;
+	text-align: center;
+	color: #fff;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+}
+.lastcode{
+	padding-top: 30px;
+	text-align: center;
+	font-size: 2.25rem;
+	color: #fff;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+}
+.tc{
+	padding-bottom: 20px;
+	font-size: 1.25rem;
+}
+.tc1{
+	padding-bottom: 20px;
+	font-size: 1.25rem;
+
+}
+.tc2{
+	padding-bottom: 20px;
+	font-size: 1.25rem;
+
+}
+.bton2{
+	border-radius: 5px;
+	background-color: #5fcf80;
+	font-size: 15px;
+	color: #fff;
+	padding: 5px 10px 5px 10px;
+	
+	text-decoration: none;
+}
+.logo2{
+	color: #5fcf80;
+	float: left;
+	font-family: "Gotham Rounded A","Gotham Rounded B",Helvetica,Arial,sans-serif;
+	font-size: 30px;
+}
+.lgo{
+	padding-top: 10px;
+	font-size: 0.87rem;
+	color: #576366;
+}
+.lst ul li a{
+	color: #576366;
+	font-size: 1.25rem;
+	text-decoration: none;
+}
